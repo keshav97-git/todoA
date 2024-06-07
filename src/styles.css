@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  margin: 0px;
+}
+/* Add styles for your app */
+.App {
+  text-align: center;
+  padding: 20px;
+  color: white;
+  background-color: rgb(128, 115, 78);
+  height: 87vh;
+  width: 100vw;
+}
+
+input {
+  margin-right: 5px;
+  border-radius: 10px;
+  font-size: large;
+}
+
+button {
+  margin-left: 5px;
+  border-radius: 20px;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: grey;
+}
